@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Ciaran - I like to work on passion projects and explore and contribute to open source projects. I'm interested in software engineering and physics and try to find an intersection between the two when I can.
+I'm Ciaran - I like to work on passion projects and explore and contribute to open source projects. I'm interested in software engineering and physics, I enjoy learning about most topics in either domain. 
 
 
 **Education:**
