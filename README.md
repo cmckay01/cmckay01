@@ -16,4 +16,4 @@ I'm Ciaran - I like to work on passion projects and explore and contribute to op
 
 **Projects:** 
 
-Feel free to explore my GitHub repositories to look at the projects I've been working on. If you have any ideas or want to collaborate on something cool, don't hesitate to reach out! Let's build something together.
+Feel free to explore my GitHub repos to look at the projects I've been working on. If you have any ideas or want to collaborate on something cool, don't hesitate to reach out! Let's build something together.
